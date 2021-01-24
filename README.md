@@ -14,6 +14,8 @@ One of the most critical steps of our process was to organize of the ride-sharin
 ![module_challenge_5](analysis/module_challenge_5.png)<br><br>
 
 **Total Rides, Total Drivers, and Total Fares - Oh My**<br><br>
+
+When we look at the data - it tells a telling story for the Urban City Type.  They hold the largest totals and percentages for Total Rides, Total Drivers, and Total Fares.  That falls inline with economic expectations - where there is a large demand, there will be a large supply of service as well.  Sububran is steady producer for totals and I think that is expected.  We need to remember the Rural City Type - this will be an area of recommendation. <br><br>
 ![Fig6](analysis/Fig6.png)<br><br>
 
 ![Fig7](analysis/Fig7.png)<br><br>
