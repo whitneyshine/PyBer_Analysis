@@ -25,6 +25,7 @@ We need to remember the Rural City Type - this will be an area of recommendation
 ![Fig5](analysis/Fig5.png)<br><br>
 
 **Average Fare per Ride and Average Fare per Driver**<br><br>
+![module_challenge_5_rural](analysis/module_challenge_5_rural.png)<br><br>
 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)<br><br>
 
