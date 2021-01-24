@@ -13,6 +13,9 @@ One of the most critical steps of our process was to organize of the ride-sharin
 
 ![module_challenge_5](analysis/module_challenge_5.png)<br><br>
 
+**Total Rides**<br><br>
+![Fig6](analysis/Fig6.png)<br><br>
+
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)<br><br>
 
 ## Summary<br><br>
