@@ -30,7 +30,14 @@ The Rural City Type has high averages when it comes to average fare per driver a
 ![module_challenge_5_rural](analysis/module_challenge_5_rural.png)<br><br>
 
 **Total Fare by City Type**
-I love this chart - it allows us to see a timeline of the ups and downs of business over the past four months.  What excites me about this graph is the opportunity that the Suburban City Type is showing since the start of April.  We need to do a deep root cause analysis as to why the business is seeing a strong upward trend of fares and rides so that we can put a strong recommendation in front of the team to capitalize on this growth.  Please see the recommendations below that will give PyBer a great second half of the year and position ourselves for year over year growth for this year and every year after.<br>
+I love this chart - it allows us to see a timeline of the ups and downs of business over the past four months.  What excites me about this graph is the opportunity that the Suburban City Type is showing since the start of April.  We need to do a deep root cause analysis as to why the business is seeing a strong upward trend of fares and rides so that we can put a strong recommendation in front of the team to capitalize on this growth.  Please see the recommendations below that will give PyBer a great second half of the year and position ourselves for year over year growth for this year and every year after.<br><br>
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)<br><br>
 
 ## Summary<br><br>
+First Recommendation - Keep supplying the Urban City Type by putting more drivers in the demographic.  Time is money for PyBer and Time is satisfaction to Riders.  No one wants to wait for their ride and no one wants a bad review - so this is a win-win for the company, drivers and riders.  The larger footprint of success we can make in this city type - the more we can get consistent our our cash inflows from this city type.  This will be one of the three keys of success moving forward.<br><br>
+
+Second Recommendation - Incentize the drivers to work in the Rural Area along with adding a carpool feature.  If Rural Riders need to come to the city, the driver will have to pass through two city type demographics to get to the final destination as well as the ride back to the Rural Destination.  Not only incentize the driver, but also entice the Rural Ride - let's start giving a flat rate for the rides outside a certain mileage distance.  If we can keep supplying the Urban area with constant demand/supply, we can afford to take a lower profit margin from the Rural Area.  This will spread more drivers to the rural area by allowing them to keep more of the fare and with the flat fare, the Rural Rider knows from the start the fare that will be due - and if they take the ride round trip - we can discount it even more to still meet our breakeven points.<br><br>
+
+Third Recommendation - <br><br>
+
+In closing, thank you for your time and attention today.  We appreciate the opportunity to work on this project and are here if you have any further questions or if more detailed analysis is needed.
