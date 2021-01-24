@@ -6,11 +6,11 @@ Today is the day, we just received the work assignment of a lifetime by being as
 
 ![Fig1](analysis/Fig1.png)<br><br>
 
-##Results<br><br>
+## Results<br><br>
 ![module_challenge_5](analysis/module_challenge_5.png)<br><br>
 
 
-##Summary<br><br>
+## Summary<br><br>
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)<br><br>
 
 
