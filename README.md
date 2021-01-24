@@ -30,7 +30,7 @@ The Rural City Type has high averages when it comes to average fare per driver a
 ![module_challenge_5_rural](analysis/module_challenge_5_rural.png)<br><br>
 
 **Total Fare by City Type**
-
+I love this chart - it allows us to see a timeline of the ups and downs of business over the past four months.  What excites me about this graph is the opportunity that the Suburban City Type is showing since the start of April.  We need to do a deep root cause analysis as to why the business is seeing a strong upward trend of fares and rides so that we can put a strong recommendation in front of the team to capitalize on this growth.  Please see the recommendations below that will give PyBer a great second half of the year and position ourselves for year over year growth for this year and every year after.<br>
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)<br><br>
 
 ## Summary<br><br>
