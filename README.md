@@ -9,7 +9,7 @@ Today is the day, we just received the work assignment of a lifetime by being as
 ## Results<br><br>
 
 **Organize the Data**<br><br>
-Step 1 of our process was to organize of the ride-sharing data by total rides, total drivers, and total fares.  From there, we calculated the average fare per ride and average fare per driver for each city type.  Please see chart below to see how the data mapped out under each column heading.<br><br>
+One of the most critical steps of our process was to organize of the ride-sharing data by total rides, total drivers, and total fares.  From there, we calculated the average fare per ride and average fare per driver for each city type.  Please see chart below to see how the data mapped out under each column heading.<br><br>
 
 ![module_challenge_5](analysis/module_challenge_5.png)<br><br>
 
