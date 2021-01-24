@@ -17,12 +17,14 @@ One of the most critical steps of our process was to organize of the ride-sharin
 
 When we look at the data - it tells a telling story for the Urban City Type.  They hold the largest totals and percentages for Total Rides, Total Drivers, and Total Fares.  That falls inline with economic expectations - where there is a large demand, there will be a large supply of service as well.<br>  
 The Sububran City Type is steady producer for totals and I think that is expected.  I find the Suburban City Type has an interesting narrative - they contribute ~26% of the Total Rides but what is eye-catching is that they are responsible for ~31% of the Total Fares with only ~17% of the Total Drivers.<br>  
-We need to remember the Rural City Type - this will be an area of recommendation to V. Isualize and the PyBer decision-makers. <br><br>
+We need to remember the Rural City Type - this will be an area of recommendation to V. Isualize and the PyBer decision-makers. What they lack in total numbers, they make it up in the average fare by driver and by ride.  Let's discuss the averages in the next section of our results below.<br><br>
 ![Fig6](analysis/Fig6.png)<br><br>
 
 ![Fig7](analysis/Fig7.png)<br><br>
 
 ![Fig5](analysis/Fig5.png)<br><br>
+
+**Average Fare per Ride and Average Fare per Driver**<br><br>
 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)<br><br>
 
